@@ -1,3 +1,4 @@
+![logo](https://github.com/rishav-r3/rishav-r3/blob/main/Rishav.png)
 <h1 align="center">Hi 👋, I'm Rishav</h1>
 <h3 align="center">"Results-driven electronic and communication student with a passion in Coding,developing,innovation and problem-solving. Experienced in developing and testing Software and codes"</h3>
 
