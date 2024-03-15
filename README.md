@@ -1,5 +1,8 @@
 ![logo](https://github.com/rishav-r3/rishav-r3/blob/main/Rishav.png)
 <h1 align="center">Hi 👋, I'm Rishav</h1>
+<p align="center">
+      <img src="https://github.com/rishav-r3/rishav-r3/blob/main/loading.gif" width="20px">
+  </p>
 <h3 align="center">"Results-driven electronic and communication student with a passion in Coding,developing,innovation and problem-solving. Experienced in developing and testing Software and codes"</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishav-r3&label=Profile%20views&color=0e75b6&style=flat" alt="rishav-r3" /> </p>
